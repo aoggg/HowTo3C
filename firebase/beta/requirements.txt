@@ -1,0 +1,4 @@
+firebase_functions
+google-genai
+Pillow
+legacy-cgi
